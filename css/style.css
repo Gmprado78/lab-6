@@ -3,7 +3,8 @@ body {
 }
 td{
 	border: 75px solid;
-	background-color: yellow;
+	background-color: MintCream;
+	font-size: 50;
   }
   
 th{
@@ -13,15 +14,13 @@ th{
   }
 
 img {
-  width: 180px;
-  height: 150px;
-  width: 100%;
-  height: 1000%;
+  width: 60%;
+  height: 70%;
 }
 
-left {
+div.left {
   float: left;
-  background: green;
+  background: SteelBlue;
 }
 
 img2 {
