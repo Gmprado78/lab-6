@@ -1,13 +1,13 @@
 body {
   background-color: blue;
 }
-td{
+td {
 	border: 5px solid;
 	background-color: MintCream;
 	font-size: 20px;
   }
   
-th{
+th {
 	border: 5px solid;
 	background-color: lightblue;
 	font-size: 30px;
@@ -17,6 +17,7 @@ img {
   width: 100%;
   height: 100%;
   border-radius: 20%;
+  object-fit: cover;
 }
 
 div.left {
@@ -24,9 +25,6 @@ div.left {
   background: SteelBlue;
 }
 
-img2 {
-  margin: 5px 10px;
-  border: 5px blue;
 }
 div.relative {
 	position:relative;
@@ -34,8 +32,6 @@ div.relative {
 	border: 5px solid;
 }
 
-div.center{
+div.center {
 	text-align: center;
 }
-
-	
