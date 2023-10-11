@@ -2,13 +2,13 @@ body {
   background-color: blue;
 }
    td, th {
-	border: 1px solid;
+	border: 5px solid;
 	background-color: yellow;
   }
 
 img {
-  width: 40px;
-  height: 30px;
+  width: 100px;
+  height: 200px;
 }
 
 left {
